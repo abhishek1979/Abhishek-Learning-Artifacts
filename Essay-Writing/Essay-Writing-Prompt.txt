@@ -1,0 +1,21 @@
+-------------------------------------------------Prompt--------------------------------------------------
+
+Write a speech in 4 different versions on the topic : Science - curse or boon.
+Each version should have 200-250 words.
+Structure: Introduction, body, conclusion.
+Focus on clarity, grammar, and purpose.
+Use CEFR B2-C2 vocabulary. 
+Tag CEFR Level with words and highlight it.
+Provide the english meaning of CEFR Level words at the end for all 4 different versions.
+It should be for SHL English Communication Assessment Test.
+
+
+--------------------Essay Prompt--------------------------
+
+Write an essay in CEFR Level A1, A2, B1, B2, C1 and C2 versions on the topic : Narendra Damodar Modi.
+Each version should have 100-150 words.
+Structure: Introduction, body, conclusion.
+Focus on clarity, grammar, and purpose.
+Tag CEFR Level with words and highlight it bold itatic font.
+Provide the english meaning of CEFR Level words at the end for every versions.
+It should be for SHL English Communication Assessment Test.

@@ -1,0 +1,42 @@
+------------------------------CEFR Words--------------------------------------------------------
+
+For given CEFR Word : Avoid
+Provide pronunciation in both English and Hindi.
+Provide English and Hindi Meaning.
+Provide all usages with 3 examples for each collocation. 
+Provide all Collocations with 3 examples for each collocation. 
+Provide all phrasal verb and idioms made from this word.
+Each example should be in both English and Hindi language.
+Provide 5 daily most frequently used sentences using this word.
+Provide 5 most suitable Synonyms.
+Provide 5 most suitable Antonyms.
+Create a set of practice fill-in-the-blank questions to help me test my understanding of these collocations.
+
+------------------------------HC Hardwick Words-------------------3 April 2026-------------------------------------
+
+For given Word : Skirmish
+Provide CEFR Level.
+Provide pronunciation in both English and Hindi.
+Provide English and Hindi Meaning.
+Provide all usages with 3 examples for each collocation. 
+Provide all Collocations with 3 examples for each collocation. 
+Provide all phrasal verb and idioms made from this word.
+Each example should be in both English and Hindi language.
+Provide 5 daily most frequently used sentences using this word.
+Provide 5 most suitable Synonyms.
+Provide 5 most suitable Antonyms.
+Create a set of practice fill-in-the-blank questions to help me test my understanding of these collocations.
+
+
+
+-----------------------------------Phrasal Verb---------------------------------------------------
+
+List out all the phrasal verbs made using the word : forward.
+
+
+
+Provide English and Hindi Meaning and all usages of phrasal verb : press ahead.
+Provide all Collocations with 3 examples for each collocation. 
+Each example should be in both English and Hindi language.
+Provide 5 most suitable Synonyms.
+Provide 5 most suitable Antonyms.
